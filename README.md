@@ -1,2 +1,23 @@
-# ceaser-cipher-js
-A simple interactive Caesar Cipher encryption and decryption tool built with HTML, CSS, and JavaScript
+Caesar Cipher JS
+
+A simple Caesar Cipher tool built with HTML, CSS, and JavaScript to encrypt and decrypt messages with a shift key.
+
+Features
+ • Encrypt messages with a user-defined shift
+ • Decrypt messages with the same shift
+ • Simple and interactive web interface
+
+How to Use
+ 1. Clone the repository: git clone https://github.com/Elnazfz/caesar-cipher-js.git
+ 2. Open index.html in your browser.
+ 3. Enter a message and a shift value.
+ 4. Click Encrypt or Decrypt to see the result.
+
+File Structure
+ • index.html – main HTML file
+ • style.css – styling for the page
+ • script.js – JavaScript logic for encryption and decryption
+
+Technologies
+
+HTML, CSS, JavaScript (ES6)
