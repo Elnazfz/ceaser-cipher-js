@@ -8,7 +8,7 @@ Features
  • Simple and interactive web interface
 
 How to Use
- 1. Clone the repository:https://github.com/Elnazfz/ceaser-cipher-js/tree/main
+ 1. Clone the repository:https://elnazfz.github.io/ceaser-cipher-js/
  2. Open index.html in your browser.
  3. Enter a message and a shift value.
  4. Click Encrypt or Decrypt to see the result.
